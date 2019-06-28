@@ -6,6 +6,8 @@ WINDOWS:
 Extract the 'FunnyPixiJSGame-master.zip' file
 Go to FunnyPixiJSGame-master/PixiGame
 Using your prefered localhost web server, load index.thml located in 'PixiGame' folder.
+
+
 LINUX:
 Extract the 'FunnyPixiJSGame-master.zip' file
 Go to FunnyPixiJSGame-master/PixiGame
