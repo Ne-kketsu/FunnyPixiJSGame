@@ -1,5 +1,4 @@
-name: Python package
-https://github.com/<Ne-kketsu>/<FunnyPixiJSGame>/workflows/Python%20package/badge.svg
+name: https://github.com/<Ne-kketsu>/<FunnyPixiJSGame>/workflows/Python%20package/badge.svg  
 
 on: [push, pull_request]
 
